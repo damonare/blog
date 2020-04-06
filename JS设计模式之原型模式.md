@@ -24,7 +24,7 @@ comments: true
 
 ## 正文
 
-《Javascript高级程序设计》一书中对Javascript基于原型链实现继承的实现方式进行了非常经典的阐述和讲解。本文以此书为基础，借鉴其中思路对Javascript中的“原型继承模式”进行总结讲解。
+《Javascript高级程序设计》一书中对Javascript基于原型链实现继承的实现方式进行了非常经典的阐述和讲解。本文以此书为基础，借鉴其中思路对Javascript中的“原型继承模式”进行总结讲解。Javascript中的继承就是基于原型模式(Prototype pattern)的一种实现。
 
 ### 类式继承
 
