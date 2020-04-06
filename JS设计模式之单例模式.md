@@ -4,6 +4,8 @@ categories:
   - 原创
 tags:
   - JavaScript
+  - 设计模式
+  - 创建型模式
 toc: true
 comments: true
 ---
@@ -12,7 +14,7 @@ comments: true
 
 > 本文818字，阅读大约需要5分钟。
 
-**总括:**  本文讲解了Javascript中的单例模式。
+**总括:** 在Javascript中实现23种经典设计模式的单例模式。
 
 - 公众号：「前端进阶学习」，回复「666」，获取一揽子前端技术书籍
 

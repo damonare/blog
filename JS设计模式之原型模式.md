@@ -4,6 +4,8 @@ categories:
   - 原创
 tags:
   - JavaScript
+  - 设计模式
+  - 创建型模式
 toc: true
 comments: true
 ---
@@ -12,7 +14,7 @@ comments: true
 
 > 本文2584字，阅读大约需要10分钟。
 
-**总括:**  本文讲解了在Javascript实现继承的几种方式。
+**总括:**  本文讲解了在Javascript实现继承的几种方式，在Javascript中实现23种经典设计模式的原型模式。
 
 - 公众号：「前端进阶学习」，回复「666」，获取一揽子前端技术书籍
 
