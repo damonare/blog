@@ -15,7 +15,7 @@ comments: true
 
 **总括:**  什么是变量提升，使用var,let,const,function,class声明的变量函数类在变量提升的时候都有什么区别。
 
-- 参考文章：[Hoisting in Modern JavaScript — let, const, and var](https://blog.bitsrc.io/hoisting-in-modern-javascript-let-const-and-var-b290405adfda)
+- 参考文章：[Hois ting in Modern JavaScript — let, const, and var](https://blog.bitsrc.io/hoisting-in-modern-javascript-let-const-and-var-b290405adfda)
 - 公众号：「前端进阶学习」，回复「666」，获取一揽子前端技术书籍
 
 **要么庸俗，要么孤独。**
@@ -85,7 +85,7 @@ lexicalEnvironment = {
 
 所以在代码执行阶段，当Javascript引擎碰到`helloWorld()`这行代码，会在词法环境中寻找，然后找到这个函数并执行它。
 
-####函数表达式
+#### 函数表达式
 
 注意，只有函数声明才会被直接提升，使用函数表达式声明的函数不会被提升，看下面代码：
 
