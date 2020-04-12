@@ -12,7 +12,7 @@ comments: true
 
 ## 前言
 
-> 本文2584字，阅读大约需要10分钟。
+> 本文2614字，阅读大约需要10分钟。
 
 **总括:**  本文讲解了在Javascript实现继承的几种方式，在Javascript中实现23种经典设计模式的原型模式。
 
@@ -23,6 +23,8 @@ comments: true
 <!-- more -->
 
 ## 正文
+
+原型模式(Prototype pattern)：**用来创建重复的对象，同时又能保证性能**。
 
 《Javascript高级程序设计》一书中对Javascript基于原型链实现继承的实现方式进行了非常经典的阐述和讲解。本文以此书为基础，借鉴其中思路对Javascript中的“原型继承模式”进行总结讲解。Javascript中的继承就是基于原型模式(Prototype pattern)的一种实现。
 
